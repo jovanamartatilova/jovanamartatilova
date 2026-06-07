@@ -16,7 +16,7 @@ Web & Mobile Developer · Aspiring Data Analyst
 
 ## About me
 
-Information Systems student at Universitas Airlangga with a focus on data analytics, business intelligence, and full stack web development. Experienced in building AI-powered web systems, Tableau dashboards, and machine learning projects. Also active in UI/UX design and data-driven storytelling. Always looking for ways to combine tech and data to build things that actually matter.
+Information Systems student at Universitas Airlangga passionate about data analytics and full stack web development. Experienced in building web applications, data dashboards, and academic projects using modern technologies. Interested in solving real-world problems through data, technology, and user-centered solutions.
 
 ---
 
@@ -36,10 +36,10 @@ Figma · Git · GitHub
 ## GitHub analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jovanamartatilova&theme=tokyonight" width="100%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jovanamartatilova&theme=tokyonight" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jovanamartatilova&theme=tokyonight" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=jovanamartatilova&theme=tokyonight&hide_border=true" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jovanamartatilova&theme=tokyonight" width="80%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jovanamartatilova&theme=tokyonight" width="38%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jovanamartatilova&theme=tokyonight" width="38%"/>
+  <img src="https://streak-stats.demolab.com?user=jovanamartatilova&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 
@@ -56,12 +56,13 @@ Figma · Git · GitHub
 
 | Project | Description | Tech |
 |---|---|---|
-| [librareads_mobile](https://github.com/jovanamartatilova/librareads_mobile) | Library book management app | PHP |
-| [HomiTech](https://github.com/jovanamartatilova/HomiTech) | Smart home brand website | HTML/CSS/JS |
-| [BookTrack](https://github.com/jovanamartatilova/BookTrack) | Personal book tracking app | JavaScript |
-| [sistemsaas](https://github.com/jovanamartatilova/sistemsaas) | SaaS system | JavaScript |
-| [PMOBPrak](https://github.com/jovanamartatilova/PMOBPrak) | Mobile app | Dart |
+| [librareads_mobile](https://github.com/jovanamartatilova/librareads_mobile) | Cross-platform digital library app with authentication and book management | Flutter · Dart |
+| [HomiTech](https://github.com/jovanamartatilova/HomiTech) | Smart home company landing page with responsive design | HTML · CSS · JS |
+| [BookTrack](https://github.com/jovanamartatilova/BookTrack) | Personal book tracking and reading management app | React · Tailwind |
+| [sistemsaas](https://github.com/jovanamartatilova/sistemsaas) | Internship management system for registration, monitoring, and administration | Laravel · ReactJS |
+| [PMOBPrak](https://github.com/jovanamartatilova/PMOBPrak) | Mobile app built with Flutter as part of academic coursework | Flutter · Dart |
 
+> Some projects are private or still in progress — feel free to reach out for more details.
 ---
 
 
