@@ -37,9 +37,6 @@ Figma · Git · GitHub
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jovanamartatilova&theme=tokyonight" width="80%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jovanamartatilova&theme=tokyonight" width="38%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jovanamartatilova&theme=tokyonight" width="38%"/>
-  <img src="https://streak-stats.demolab.com?user=jovanamartatilova&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 
