@@ -51,14 +51,17 @@ Figma · Git · GitHub
 
 ## Featured projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [librareads_mobile](https://github.com/jovanamartatilova/librareads_mobile) | Cross-platform digital library app with authentication and book management | Flutter · Dart |
-| [HomiTech](https://github.com/jovanamartatilova/HomiTech) | Smart home company landing page with responsive design | HTML · CSS · JS |
-| [BookTrack](https://github.com/jovanamartatilova/BookTrack) | Personal book tracking and reading management app | React · Tailwind |
-| [sistemsaas](https://github.com/jovanamartatilova/sistemsaas) | Internship management system for registration, monitoring, and administration | Laravel · ReactJS |
-| [PMOBPrak](https://github.com/jovanamartatilova/PMOBPrak) | Mobile app built with Flutter as part of academic coursework | Flutter · Dart |
-
+| Project | Description | Tech | Role |
+|---|---|---|---|
+| [EarlyPath](https://github.com/jovanamartatilova/sistemsaas) | Internship management SaaS | Laravel · ReactJS | Author |
+| [LibraReads](https://github.com/jovanamartatilova/librareads_mobile) |  Digital library application | Flutter · Dart | Author |
+| [BookTrack](https://github.com/jovanamartatilova/BookTrack) | Reading tracker application | React · Tailwind | Author |
+| [HomiTech](https://github.com/jovanamartatilova/HomiTech) | Smart home brand website | HTML · CSS · JavaScript | Author |
+| [WebsitePortofolio](https://github.com/jovanamartatilova/WebsitePortofolio) | Personal portfolio website | HTML · CSS | Author |
+| [PMOBPrak](https://github.com/jovanamartatilova/PMOBPrak) | Flutter mobile application | Flutter · Dart | Author |
+| [Meowly-Smartcat](https://github.com/anindyawita/Meowly-Smartcat-Service-Platform) | AI cat breed classifier | Python · Next.js | Contributor |
+| [JaringJurnalAisindo](https://github.com/AgileSoftDev-2025/JaringJurnalAisindo) | Website for the Indonesian Information Systems Association | Laravel · Blade | Contributor |
+| [Dradahblumbang](https://github.com/gaidasalsaa/dradahblumbang) | Dradahblumbang Village Profile Website | TypeScript | Contributor |
 > Some projects are private or still in progress — feel free to reach out for more details.
 ---
 
