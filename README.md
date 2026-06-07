@@ -1,8 +1,8 @@
 
 
-# Hi, I'm Jovana Marta Tilova 👩‍💻
+# Hi, I'm Jovana Martatilova
 
-**Web & Mobile Developer · Aspiring Data Analyst · Indonesia 🇮🇩**
+**Web & Mobile Developer · Aspiring Data Analyst **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jovanamartatilova)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jovanamartatilova@gmail.com)
@@ -14,38 +14,30 @@
 
 ---
 
-## 🙋‍♀️ About me
+## About me
 
 ```
-🌐  Building web & mobile apps — PHP, JavaScript, Flutter/Dart
-📊  Transitioning into data analytics — SQL, Python, visualization
-🔭  Currently working on: librareads_mobile & sistemsaas
-💡  Interested in how data can improve the products I build
-📫  Reach me: your-email@gmail.com
+Information Systems student at Universitas Airlangga with a focus on data analytics, business intelligence, and full stack web development. Experienced in building AI-powered web systems, Tableau dashboards, and machine learning projects. Also active in UI/UX design and data-driven storytelling. Always looking for ways to combine tech and data to build things that actually matter.
 ```
 
 ---
 
-## 🛠 Tech stack
-
-
+## Tech stack
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Currently learning:**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
 
